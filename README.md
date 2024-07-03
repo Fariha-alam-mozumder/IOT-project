@@ -1,4 +1,4 @@
-#Anti-Theft Home Security System
+# Anti-Theft Home Security System
 
 The "Anti-Theft Home Security System" is an Internet of Things (IoT) project designed to enhance the security of homes by utilizing various electronic components such as Arduino Uno, GSM module, voltage regulator, and motion sensors. The system aims to detect unauthorized access and notify the homeowner through SMS alerts, ensuring a swift response to potential security breaches.
 
@@ -21,7 +21,9 @@ The system operates as follows:
 
 ## 4. Circuit Diagram:
 
-![Screenshot (237)](https://github.com/Fariha-alam-mozumder/IOT-project/assets/156440883/8c53ed63-a3c2-4f6a-822e-c251041f4d8a)
+
+![circuit](https://github.com/Fariha-alam-mozumder/IOT-project/assets/156440883/1058c1d8-10e1-4836-b2ec-af5c38f0b137)
+
 
 ## 5. Implementation:
 1. Set up the motion sensors in strategic locations within the home.
